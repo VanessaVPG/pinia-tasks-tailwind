@@ -2,6 +2,10 @@
 
 ### Também em breve farei a API para fazer a integração e não precisar apenas rodar no localhost.
 
+
+https://user-images.githubusercontent.com/79724427/229413904-6ba20096-49f7-487f-8ca3-41eeb9de0b1f.mp4
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
