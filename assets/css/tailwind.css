@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    @apply bg-slate-900;
+}
+
+
+
+@layer components {
+ p {
+    @apply font-mono text-zinc-300;
+ }
+ button {
+    @apply bg-slate-100 text-slate-900 font-bold border-2 border-yellow-100 hover:bg-slate-900 hover:text-white hover:transition-transform rounded-full p-2 text-center;
+ }
+}
